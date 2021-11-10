@@ -1,0 +1,16 @@
+body {
+    background: lightgray;
+}
+.container {
+    width: 70%;
+    margin: auto;
+   
+}
+.row {
+    display: flex;
+}
+article {
+    border: 1px solid black;
+    padding: 30px;
+    flex: 1;
+}
